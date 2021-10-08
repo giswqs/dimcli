@@ -5,7 +5,9 @@
 ## v 0.9.2
 
 * Support for multiple API endpoints (V1 / V2)
+  * https://digital-science.github.io/dimcli/modules.html#dimcli.__init__.login
 * Support for parallel querying of distinct Dimensions servers
+  * https://digital-science.github.io/dimcli/modules.html#dimcli.core.api.Dsl
 * CLI: `.record_notebook` utility removed. Use instead `.export_as_jupyter`
 
 
